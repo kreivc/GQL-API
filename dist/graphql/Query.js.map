@@ -1,0 +1,1 @@
+{"version":3,"file":"Query.js","sourceRoot":"","sources":["../../src/graphql/Query.ts"],"names":[],"mappings":";;;AAAA,iCAAkC;AAErB,QAAA,KAAK,GAAG,IAAA,iBAAS,EAAC;IAC9B,UAAU,CAAC,CAAC;QACX,CAAC,CAAC,KAAK,CAAC,OAAO,EAAE;YAChB,IAAI,EAAE,QAAQ;YACd,OAAO,EAAE,GAAG,EAAE,CAAC,QAAQ;SACvB,CAAC,CAAC;IACJ,CAAC;CACD,CAAC,CAAC"}
